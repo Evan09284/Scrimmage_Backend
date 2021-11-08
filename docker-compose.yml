@@ -1,0 +1,12 @@
+version: '3.1'
+
+services:
+  scrimmage-app:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    container_name: scrimmage-app
+    ports:
+      - 5000:5000
+    # bridge - connect to docker container from localhost
+    network_mode: bridge

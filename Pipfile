@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Flask = "*"
+python-dotenv = "*"
+requests = "*"
+Flask-Migrate = "*"
+Flask-Cors = "*"
+gunicorn = "*"
+alembic = "*"
+psycopg2-binary = "*"
+Flask-SQLAlchemy = "*"
+flask-redis = "*"
+importlib-resources = "*"
+pytest = "*"
+pip = "*"
+install = "*"
+flask-apscheduler = "*"
+pydash = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

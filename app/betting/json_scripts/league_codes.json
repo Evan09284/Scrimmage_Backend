@@ -1,0 +1,592 @@
+{
+    "data": [
+        {
+            "aussiefootball": [
+                {
+                    "code": "AUF",
+                    "name": "Australian Football League"
+                },
+                {
+                    "code": "AUFN",
+                    "name": "JLT Community Series"
+                }
+            ]
+        },
+        {
+            "ahl": [
+                {
+                    "code": "HKA",
+                    "name": "American Hockey League"
+                }
+            ]
+        },
+        {
+            "afl": [
+                {
+                    "code": "FBA",
+                    "name": "Arena Football League"
+                }
+            ]
+        },
+        {
+            "af2": [
+                {
+                    "code": "FBD",
+                    "name": "Arena Football League 2"
+                }
+            ]
+        },
+        {
+            "racing": [
+                {
+                    "code": "RACF1",
+                    "name": "Formula 1"
+                },
+                {
+                    "code": "RACIN",
+                    "name": "IndyCar"
+                },
+                {
+                    "code": "RACGP",
+                    "name": "MotoGP"
+                },
+                {
+                    "code": "RACNS",
+                    "name": "NASCAR"
+                },
+                {
+                    "code": "RACV8",
+                    "name": "V8 Supercars"
+                }
+            ]
+        },
+        {
+            "bowling": [
+                {
+                    "code": "PBA",
+                    "name": "Professional Bowlers Assn"
+                }
+            ]
+        },
+        {
+            "boxing": [
+                {
+                    "code": "BOX",
+                    "name": "Boxing"
+                }
+            ]
+        },
+        {
+            "chl": [
+                {
+                    "code": "HKC",
+                    "name": "Central Hockey League"
+                }
+            ]
+        },
+        {
+            "cfl": [
+                {
+                    "code": "FBB",
+                    "name": "Canadian Football League"
+                }
+            ]
+        },
+        {
+            "ncaabaseball": [
+                {
+                    "code": "BBD",
+                    "name": "College World Series Baseball"
+                }
+            ]
+        },
+        {
+            "ncaaf": [
+                {
+                    "code": "FBC",
+                    "name": "College Football"
+                }
+            ]
+        },
+        {
+            "ncaah": [
+                {
+                    "code": "HKH",
+                    "name": "College Hockey"
+                }
+            ]
+        },
+        {
+            "commgames": [
+                {
+                    "code": "CMWG",
+                    "name": "Commonwealth Games"
+                }
+            ]
+        },
+        {
+            "cba": [
+                {
+                    "code": "BKA",
+                    "name": "Continental Basketball Assn"
+                }
+            ]
+        },
+        {
+            "cricket": [
+                {
+                    "code": "CRTAU",
+                    "name": "Big Bash League"
+                },
+                {
+                    "code": "CRTIN",
+                    "name": "Indian Premier League"
+                },
+                {
+                    "code": "CRINT",
+                    "name": "Internationals"
+                },
+                {
+                    "code": "CROWC",
+                    "name": "ODI World Cup"
+                },
+                {
+                    "code": "CRTWC",
+                    "name": "T20 World Cup"
+                }
+            ]
+        },
+        {
+            "cycling": [
+                {
+                    "code": "CYC",
+                    "name": "Cycling"
+                }
+            ]
+        },
+        {
+            "echl": [
+                {
+                    "code": "HKE",
+                    "name": "ECHL"
+                }
+            ]
+        },
+        {
+            "general": [
+                {
+                    "code": "GEN",
+                    "name": "General"
+                }
+            ]
+        },
+        {
+            "golf": [
+                {
+                    "code": "EGA",
+                    "name": "European Golf Association"
+                },
+                {
+                    "code": "DGA",
+                    "name": "Korn Ferry Tour"
+                },
+                {
+                    "code": "LGA",
+                    "name": "Ladies Professional Golfers Association"
+                },
+                {
+                    "code": "AUGA",
+                    "name": "PGA of Australia"
+                },
+                {
+                    "code": "PGA",
+                    "name": "Professional Golfers Association"
+                },
+                {
+                    "code": "SGA",
+                    "name": "Senior Professional Golfers Association"
+                }
+            ]
+        },
+        {
+            "horse": [
+                {
+                    "code": "RAH",
+                    "name": "Thoroughbred Racing"
+                }
+            ]
+        },
+        {
+            "kbo": [
+                {
+                    "code": "BBKR",
+                    "name": "KBO League"
+                }
+            ]
+        },
+        {
+            "lacrosse": [
+                {
+                    "code": "LCN",
+                    "name": "National Lacrosse League"
+                }
+            ]
+        },
+        {
+            "llws": [
+                {
+                    "code": "LLB",
+                    "name": "LLB"
+                }
+            ]
+        },
+        {
+            "mlb": [
+                {
+                    "code": "BBA",
+                    "name": "American League"
+                },
+                {
+                    "code": "BBC",
+                    "name": "Cactus League"
+                },
+                {
+                    "code": "BBG",
+                    "name": "Grapefruit League"
+                },
+                {
+                    "code": "BBM",
+                    "name": "Major League Baseball"
+                },
+                {
+                    "code": "BBN",
+                    "name": "National League"
+                }
+            ]
+        },
+        {
+            "ncaab": [
+                {
+                    "code": "BKC",
+                    "name": "Men's College Basketball"
+                }
+            ]
+        },
+        {
+            "mma": [
+                {
+                    "code": "MMA",
+                    "name": "Mixed Martial Arts"
+                }
+            ]
+        },
+        {
+            "nba": [
+                {
+                    "code": "BKP",
+                    "name": "National Basketball Association"
+                }
+            ]
+        },
+        {
+            "nbdl": [
+                {
+                    "code": "BKN",
+                    "name": "National Basketball Developmental League"
+                }
+            ]
+        },
+        {
+            "nbl": [
+                {
+                    "code": "BKAU",
+                    "name": "National Basketball League"
+                }
+            ]
+        },
+        {
+            "nfl": [
+                {
+                    "code": "FBP",
+                    "name": "National Football League"
+                }
+            ]
+        },
+        {
+            "nfleuropa": [
+                {
+                    "code": "FBW",
+                    "name": "NFL Europe"
+                }
+            ]
+        },
+        {
+            "nhl": [
+                {
+                    "code": "HKN",
+                    "name": "National Hockey League"
+                }
+            ]
+        },
+        {
+            "netball": [
+                {
+                    "code": "NTTT",
+                    "name": "ANZ Championship"
+                },
+                {
+                    "code": "NTINT",
+                    "name": "Internationals"
+                },
+                {
+                    "code": "NTWC",
+                    "name": "Netball World Cup"
+                }
+            ]
+        },
+        {
+            "olympics": [
+                {
+                    "code": "OLY",
+                    "name": "Olympics"
+                }
+            ]
+        },
+        {
+            "poker": [
+                {
+                    "code": "POK",
+                    "name": "Poker"
+                }
+            ]
+        },
+        {
+            "rodeo": [
+                {
+                    "code": "ROD",
+                    "name": "Rodeo"
+                }
+            ]
+        },
+        {
+            "rugbyleague": [
+                {
+                    "code": "RLAU9",
+                    "name": "Auckland Nines"
+                },
+                {
+                    "code": "RLINT",
+                    "name": "Internationals"
+                },
+                {
+                    "code": "RLNRL",
+                    "name": "NRL"
+                },
+                {
+                    "code": "RLWC",
+                    "name": "Rugby League World Cup"
+                },
+                {
+                    "code": "RLEU",
+                    "name": "Super League"
+                }
+            ]
+        },
+        {
+            "rugbyunion": [
+                {
+                    "code": "RU6N",
+                    "name": "6 Nations"
+                },
+                {
+                    "code": "RUINT",
+                    "name": "Internationals"
+                },
+                {
+                    "code": "RUTRC",
+                    "name": "Rugby Championship"
+                },
+                {
+                    "code": "RU7",
+                    "name": "Rugby Sevens"
+                },
+                {
+                    "code": "RUWC",
+                    "name": "Rugby World Cup"
+                },
+                {
+                    "code": "RUSR",
+                    "name": "Super Rugby"
+                }
+            ]
+        },
+        {
+            "soccer": [
+                {
+                    "code": "SOAUA",
+                    "name": "A-League"
+                },
+                {
+                    "code": "SOASI",
+                    "name": "AFC Asian Cup"
+                },
+                {
+                    "code": "SCAFC",
+                    "name": "AFC Champions League"
+                },
+                {
+                    "code": "SOR",
+                    "name": "Argentina Soccer"
+                },
+                {
+                    "code": "SOG",
+                    "name": "Bundesliga"
+                },
+                {
+                    "code": "SCNA",
+                    "name": "CONCACAF Champions League"
+                },
+                {
+                    "code": "SCC",
+                    "name": "Club World Cup"
+                },
+                {
+                    "code": "SOC",
+                    "name": "Copa Soccer"
+                },
+                {
+                    "code": "SOEFL",
+                    "name": "EFL Cup"
+                },
+                {
+                    "code": "SOE",
+                    "name": "English Premier League"
+                },
+                {
+                    "code": "SOEFA",
+                    "name": "FA Cup"
+                },
+                {
+                    "code": "SONCC",
+                    "name": "Gold Cup"
+                },
+                {
+                    "code": "SOINT",
+                    "name": "Internationals"
+                },
+                {
+                    "code": "SOS",
+                    "name": "La Liga"
+                },
+                {
+                    "code": "SOELC",
+                    "name": "League Championship"
+                },
+                {
+                    "code": "SOF",
+                    "name": "Ligue 1"
+                },
+                {
+                    "code": "SOM",
+                    "name": "Major League Soccer"
+                },
+                {
+                    "code": "SOX",
+                    "name": "Mexican Soccer"
+                },
+                {
+                    "code": "SOMW",
+                    "name": "National Women's Soccer League"
+                },
+                {
+                    "code": "OLYSM",
+                    "name": "Olympics Men's Soccer"
+                },
+                {
+                    "code": "OLYSW",
+                    "name": "Olympics Women's Soccer"
+                },
+                {
+                    "code": "SOSC",
+                    "name": "Scottish Premiership"
+                },
+                {
+                    "code": "SOI",
+                    "name": "Serie A"
+                },
+                {
+                    "code": "SCB",
+                    "name": "UEFA Champions League"
+                },
+                {
+                    "code": "SCU",
+                    "name": "UEFA Europa League"
+                },
+                {
+                    "code": "SOA",
+                    "name": "UEFA European Championship"
+                },
+                {
+                    "code": "SOAUW",
+                    "name": "W-League"
+                },
+                {
+                    "code": "SOWW",
+                    "name": "Women's World Cup"
+                },
+                {
+                    "code": "SOW",
+                    "name": "World Cup"
+                }
+            ]
+        },
+        {
+            "tennis": [
+                {
+                    "code": "TEN",
+                    "name": "Tennis"
+                }
+            ]
+        },
+        {
+            "trackandfield": [
+                {
+                    "code": "RAT",
+                    "name": "Track And Field"
+                }
+            ]
+        },
+        {
+            "wnba": [
+                {
+                    "code": "BKD",
+                    "name": "Women's National Basketball Association"
+                }
+            ]
+        },
+        {
+            "ncaabw": [
+                {
+                    "code": "BKW",
+                    "name": "Women's College Basketball"
+                }
+            ]
+        },
+        {
+            "wbc": [
+                {
+                    "code": "BBY",
+                    "name": "World Baseball Classic"
+                }
+            ]
+        },
+        {
+            "esports": [
+                {
+                    "code": "ESOWL",
+                    "name": "Overwatch League"
+                }
+            ]
+        }
+    ]
+}
