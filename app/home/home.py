@@ -10,4 +10,4 @@ home_bp = Blueprint('home', __name__, url_prefix='/')
 def home():
     return render_template('home.html')
 
-#odds must go here
+#odds must go here  
